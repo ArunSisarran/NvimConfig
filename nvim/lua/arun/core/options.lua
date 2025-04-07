@@ -11,6 +11,7 @@ opt.expandtab = true
 opt.autoindent = true
 
 opt.wrap = false
+opt.guicursor = "n-v-i-c:block-Cursor"
 
 opt.ignorecase = true
 opt.smartcase = true
